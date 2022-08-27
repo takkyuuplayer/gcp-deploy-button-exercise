@@ -6,8 +6,5 @@
       "value": "example",
       "required": false
     }
-  },
-  "options": {
-    "max-instances": 1
   }
 }
