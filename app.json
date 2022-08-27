@@ -1,0 +1,10 @@
+{
+  "name": "foo-app",
+  "env": {
+    "VARIABLE_NAME": {
+      "description": "environment variable",
+      "value": "example",
+      "required": false
+    }
+  }
+}
